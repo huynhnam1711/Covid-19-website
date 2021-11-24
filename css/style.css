@@ -184,7 +184,7 @@ header .nav a:hover{
 
 .prevent .box-container{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(32rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(26rem, 1fr));
     gap: 1.5rem;
 }
 
@@ -215,7 +215,7 @@ header .nav a:hover{
 
 .experts .box-container{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(26rem, 1fr));
     gap: 1.5rem;
 }
 
